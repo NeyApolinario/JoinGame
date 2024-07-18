@@ -1,0 +1,2 @@
+# JoinGame
+Blog de videojuegos
